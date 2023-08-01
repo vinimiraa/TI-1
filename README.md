@@ -13,7 +13,3 @@ O nosso projeto visa solucionar o problema da falta de organização e planejame
 
 * João Carlos Oliveira Caetano
 * Simone Nogueira
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
